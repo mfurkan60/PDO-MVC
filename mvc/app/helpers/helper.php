@@ -1,0 +1,2 @@
+<?php
+// proje yardımcı Klasörleri
